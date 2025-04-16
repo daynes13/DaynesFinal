@@ -8,7 +8,7 @@
       "sslPort": 44384
     }
   },
-  "profiles": 
+  "profiles": {
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,

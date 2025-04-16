@@ -7,20 +7,36 @@
       "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\controllers\\finalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\controllers\\finalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\data\\engagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\data\\engagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\data\\entertainerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\data\\entertainerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\finalproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\finalproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\data\\entertainersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\data\\entertainersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\data\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\data\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|c:\\users\\daynes13\\onedrive - brigham young university\\desktop\\finalexam\\backend\\finalproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46E8AAA1-AD2F-C10B-7DC2-A1CC3D1CCDDF}|backend\\FinalProject.API\\FinalProject.API.csproj|solutionrelative:backend\\finalproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +46,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Program.cs",
+              "RelativeToolTip": "backend\\FinalProject.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:55:59.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engagement.cs",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Engagement.cs",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Data\\Engagement.cs",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Engagement.cs",
+              "RelativeToolTip": "backend\\FinalProject.API\\Data\\Engagement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:39:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntertainerSummaryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\EntertainerSummaryDTO.cs",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Data\\EntertainerSummaryDTO.cs",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\EntertainerSummaryDTO.cs",
+              "RelativeToolTip": "backend\\FinalProject.API\\Data\\EntertainerSummaryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:37:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntertainerController.cs",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Controllers\\EntertainerController.cs",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Controllers\\EntertainerController.cs",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Controllers\\EntertainerController.cs",
+              "RelativeToolTip": "backend\\FinalProject.API\\Controllers\\EntertainerController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:11:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinalProject.API",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\FinalProject.API.csproj",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\FinalProject.API.csproj",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\FinalProject.API.csproj",
+              "RelativeToolTip": "backend\\FinalProject.API\\FinalProject.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T17:21:04.824Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -50,64 +131,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FinalController.cs",
-              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Controllers\\FinalController.cs",
-              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Controllers\\FinalController.cs",
-              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Controllers\\FinalController.cs",
-              "RelativeToolTip": "backend\\FinalProject.API\\Controllers\\FinalController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T16:11:46.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Program.cs",
-              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Program.cs",
-              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Program.cs",
-              "RelativeToolTip": "backend\\FinalProject.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T16:08:36.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Context.cs",
-              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Data\\Context.cs",
-              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Context.cs",
-              "RelativeToolTip": "backend\\FinalProject.API\\Data\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T16:05:02.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Item.cs",
-              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Data\\Item.cs",
-              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Item.cs",
-              "RelativeToolTip": "backend\\FinalProject.API\\Data\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T16:04:27.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\FinalProject.API\\appsettings.json",
               "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\appsettings.json",
               "RelativeToolTip": "backend\\FinalProject.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T16:02:52.188Z"
+              "WhenOpened": "2025-04-16T16:55:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntertainerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\EntertainerDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Data\\EntertainerDbContext.cs",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\EntertainerDbContext.cs",
+              "RelativeToolTip": "backend\\FinalProject.API\\Data\\EntertainerDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:05:02.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\FinalProject.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T16:51:42.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entertainer.cs",
+              "DocumentMoniker": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Entertainer.cs",
+              "RelativeDocumentMoniker": "backend\\FinalProject.API\\Data\\Entertainer.cs",
+              "ToolTip": "C:\\Users\\daynes13\\OneDrive - Brigham Young University\\Desktop\\FinalExam\\backend\\FinalProject.API\\Data\\Entertainer.cs",
+              "RelativeToolTip": "backend\\FinalProject.API\\Data\\Entertainer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:04:27.953Z"
             }
           ]
         }

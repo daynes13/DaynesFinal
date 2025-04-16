@@ -10,8 +10,19 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<Context>(options =>
-options.UseSqlite(builder.Configuration.GetConnectionString("FinalConnection")));
+builder.Services.AddDbContext<EntertainerDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("EntertainerConnection")));
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend", policy =>
+    {
+        policy.AllowAnyOrigin() // allow all domains
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 
 var app = builder.Build();
 
@@ -23,6 +34,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors();
+
 
 app.UseAuthorization();
 
